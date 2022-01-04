@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name":"Adriana Sem Neura",
+            "email":"al.adriana.v@gmail.com"           
+        },
+        {
+            "id": 2,
+            "name":"Marcos Neura",
+            "email":"marcosneura@gmail.com"            
+        },
+        {
+            "id": 3,
+            "name":"Luiza Neurada",
+            "email":"luluneurda@outlook.com"           
+        },
+        {
+            "id": 4,
+            "name":"Vicente neurais",
+            "email":"vicenteneurais@yahoo.com"           
+        }
+    ]
+}
